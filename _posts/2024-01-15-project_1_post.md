@@ -3,7 +3,6 @@ title: Project post 1 @ My Firm
 layout: post
 category: project
 sidebar-hide: true
-date: 2024-01-15
 ---
 
 ## [Impact sentence placeholder](#)
