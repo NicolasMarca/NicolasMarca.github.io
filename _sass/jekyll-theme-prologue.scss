@@ -240,36 +240,33 @@
 	.anim-content {
 		position: absolute;
 		top: 50%;
-		left: 51%;
+		left: 50%;
 		transform: translate(-28%, -50%);
 		height: 160px;
 		overflow: hidden;
-	  
+		
 		font-family: 'Lato', sans-serif;
 		font-size: 28px;
 		line-height: 40px;
 		color: #ecf0f1;
-	  
+		
 		&__container {
 		  font-weight: 600;
-		  display: inline-flex; /* Use flexbox to handle text and brackets */
-		  align-items: center; /* Align vertically */
+		  display: inline-block; /* Ensure it fits based on content */
 		  height: 40px;
-		  overflow: hidden;
+		  padding: 0;
 	  
 		  &:before {
 			content: '[';
-			margin-right: 5px; /* Add some space before the text */
 		  }
 	  
 		  &:after {
 			content: ']';
-			margin-left: 5px; /* Add a small space after the text */
 		  }
 	  
 		  &__text {
-			display: inline-block;
-			white-space: nowrap; /* Prevent text from wrapping */
+			display: inline-block; /* Ensure text does not wrap */
+			white-space: nowrap; /* Prevent wrapping for the text */
 		  }
 	  
 		  &__list {
