@@ -1292,7 +1292,7 @@
 /* Narrower */
 
 	#headerToggle {
-		display: none !important;
+		display: none;
 	}
 
 	@include breakpoint(narrower) {
