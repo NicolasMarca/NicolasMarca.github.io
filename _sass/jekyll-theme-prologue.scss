@@ -226,7 +226,7 @@
 			transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 		}
 	}
-	/* SubTitle Animation */
+	/* Profile photo style */
 	.profile-pic {
 		max-width: 100%;  
 		border-radius: 50%;  
@@ -366,6 +366,11 @@
 	  83.3%,95.96% {transform:translate3d(0,-25%,0);}
 	}
 	
+	.styled-text {
+		font-family: 'Lato', sans-serif; 
+		font-size: 16px; 
+	  }
+
 	/* End Testing */
 
 /* Scrollbar */
@@ -394,7 +399,7 @@
 
 	body {
 		background: #fff;
-		font-family: 'Lato', sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
