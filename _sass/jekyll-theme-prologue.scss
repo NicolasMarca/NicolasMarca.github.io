@@ -238,9 +238,10 @@
 	
 	/* SubTitle Animation */
 	.anim-content {
-	  position: absolute;
+	  position: relative;
+	  display: flex;
 	  top: 50%;
-	  left: 52%;
+	  left: 51%;
 	  transform: translate(-28%, -50%);
 	  height: 160px;
 	  overflow:hidden;
