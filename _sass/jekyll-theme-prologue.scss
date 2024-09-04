@@ -854,6 +854,54 @@
 	}
 
 /* Header */
+	#headerToggle {
+		display: none; /* Hide toggle by default */
+		height: 2.25em;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: _misc(z-index-base) + 1;
+
+		.toggle {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			outline: 0;
+			border: 0;
+
+			&::before {
+				font-family: "Font Awesome 5 Free";
+				content: '\f0c9';
+				color: #fff;
+				font-size: 18px;
+				line-height: 2.25em;
+				background: rgba(128, 136, 144, 0.8);
+				border-radius: 0.35em;
+				text-align: center;
+				position: absolute;
+				left: 0.5em;
+				top: 0.5em;
+				display: block;
+				height: 2.25em;
+				line-height: 2.25em;
+			}
+		}
+	}
+
+	body.header-visible {
+		#header {
+			@include vendor('transform', 'translateX(0)');
+		}
+
+		#main {
+			@include vendor('transform', 'translateX(#{_size(header)})');
+		}
+	}
+
+
+
 
 	#header {
 		@include vendor('display', 'flex');
@@ -1121,11 +1169,11 @@
 
 /* Normal */
 	#headerToggle {
-		display: block;
+		display: block; 
 	}
-
 	@include breakpoint(normal) {
-
+		
+		
 		/* Main */
 
 			#main {
@@ -1145,63 +1193,6 @@
 				ul {
 					hr {
 						margin: auto 1.25em;
-					}
-				}
-			}
-			#headerToggle {
-				@include vendor('backface-visibility', 'hidden');
-				@include vendor('transition', 'transform #{_duration(header)} ease');
-				display: block;
-				left: 0;
-				position: fixed;
-				top: 0;
-				z-index: _misc(z-index-base) + 1;
-
-				.toggle {
-					position: absolute;
-					left: 0;
-					top: 0;
-					width: 100%;
-					height: 100%;
-					outline: 0;
-					border: 0;
-
-					&::before {
-						font-family: "Font Awesome 5 Free";
-						text-decoration: none;
-						font-style: normal;
-						font-weight: 900;
-						-webkit-font-smoothing: antialiased;
-						-moz-osx-font-smoothing: grayscale;
-						content: '\f0c9';
-						color: #fff;
-						font-size: 18px;
-						line-height: 2.25em;
-						background: rgba(128, 136, 144, 0.8);
-						border-radius: 0.35em;
-						text-align: center;
-						position: absolute;
-						left: 0.5em;
-						top: 0.5em;
-						display: block;
-						width: 3.25em;
-						height: 2.25em;
-						line-height: 2.25em;
-					}
-				}
-			}
-			body {
-				&.header-visible {
-					#main {
-						@include vendor('transform', 'translateX(#{_size(header)})');
-					}
-
-					#headerToggle {
-						@include vendor('transform', 'translateX(#{_size(header)})');
-					}
-
-					#header {
-						@include vendor('transform', 'translateX(0)');
 					}
 				}
 			}
@@ -1317,7 +1308,7 @@
 			.container {
 				padding: 0 2em 0 2em;
 			}
-			
+
 		/* Item */
 
 			.item {
