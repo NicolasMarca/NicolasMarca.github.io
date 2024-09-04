@@ -1196,6 +1196,18 @@
 					}
 				}
 			}
+			
+			body.header-visible {
+				#header {
+					@include vendor('transform', 'translateX(0)');
+				}
+				#headerToggle {
+					@include vendor('transform', 'translateX(#{_size(header)})');
+				}				
+				#main {
+					@include vendor('transform', 'translateX(#{_size(header)})');
+				}
+			}
 	}
 
 /* Narrow */
