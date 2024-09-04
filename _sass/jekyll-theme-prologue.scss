@@ -238,58 +238,79 @@
 	
 	/* SubTitle Animation */
 	.anim-content {
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-28%, -50%);
-		height: 160px;
+	  position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-28%, -50%);
+	  height: 160px;
+	  overflow:hidden;
+	  
+	  font-family: 'Lato', sans-serif;
+	  font-size: 28px;
+	  line-height: 40px;
+	  color: #ecf0f1;
+	  
+	  &__container {
+		font-weight: 600;
 		overflow: hidden;
-		
-		font-family: 'Lato', sans-serif;
-		font-size: 28px;
-		line-height: 40px;
-		color: #ecf0f1;
-		
-		&__container {
-		  font-weight: 600;
-		  display: inline-block; /* Ensure it fits based on content */
-		  height: 40px;
-		  padding: 0;
-	  
-		  &:before {
-			content: '[';
-		  }
-	  
-		  &:after {
-			content: ']';
-		  }
-	  
-		  &__text {
-			display: inline-block; /* Ensure text does not wrap */
-			white-space: nowrap; /* Prevent wrapping for the text */
-		  }
-	  
-		  &__list {
-			margin-top: 0;
-			padding-left: 110px;
-			text-align: left;
-			list-style: none;
-	  
-			-webkit-animation-name: change;
-			-webkit-animation-duration: 25s;
-			-webkit-animation-iteration-count: infinite;
-			animation-name: change;
-			animation-duration: 25s;
-			animation-iteration-count: infinite;
-	  
-			&__item {
-			  line-height: 40px;
-			  margin: 0;
-			}
+		height: 40px;
+		padding: 0 40px;
+	
+		&:before {
+		  content: '[';
+		  left: 0;
+		}
+	
+		&:after {
+		  content: ']';
+		  position: absolute;
+		  right: 0;
+		}
+	
+		&:after, &:before {
+		  position: absolute;
+		  top: 0;
+		  
+		  color: #16a085;
+		  font-size: 42px;
+		  line-height: 40px;
+		  
+		  -webkit-animation-name: opacity;
+		  -webkit-animation-duration: 6s;
+		  -webkit-animation-iteration-count: infinite;
+		  animation-name: opacity;
+		  animation-duration: 6s;
+		  animation-iteration-count: infinite;
+		}
+	
+		&__text {
+		  display: inline;
+		  float: left;
+		  margin: 0;
+		}
+	
+		&__list {
+		  margin-top: 0;
+		  padding-left: 110px;
+		  text-align: left;
+		  list-style: none;
+		  
+		  -webkit-animation-name: change;
+		  -webkit-animation-duration: 25s;
+		  -webkit-animation-iteration-count: infinite;
+		  animation-name: change;
+		  animation-duration: 25s;
+		  animation-iteration-count: infinite;
+	
+		  &__item {
+			line-height:40px;
+			margin:0;
 		  }
 		}
 	  }
-	  
+	}
+
+
 	
 	@-webkit-keyframes opacity {
 	  0%, 100% {opacity:0;}
