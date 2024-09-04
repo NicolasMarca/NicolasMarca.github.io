@@ -854,7 +854,9 @@
 	}
 
 /* Header */
-
+#headerToggle {
+	display: none;
+}
 	#header {
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
@@ -900,7 +902,6 @@
 	#headerToggle {
 		@include vendor('backface-visibility', 'hidden');
 		@include vendor('transition', 'transform #{_duration(header)} ease');
-		display: block;
 		height: 2.25em;
 		left: 0;
 		position: fixed;
