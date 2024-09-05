@@ -144,7 +144,7 @@
 		position: relative;
 		z-index: 1;
 		text-align: center;
-		margin: 0 1.618em;
+		margin: 0 1.518em;
 		top: 51%;
 		opacity: 0;
 	  
@@ -154,6 +154,10 @@
 			color: #1779cf;
 			font-size: 1.1rem;
 			font-weight: normal;
+		}
+
+		p {
+			font-size: 0.9rem;
 		}
 	}
 
