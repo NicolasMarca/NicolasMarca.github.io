@@ -1,11 +1,11 @@
 ---
-title: Project post 1 @ My Firm
+title: "Interactive Market Analysis Report @UN Migration"
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## [Impact sentence placeholder](#)
+##  Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
 <br>
 <section class="article-text">
   <figure>

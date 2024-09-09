@@ -1,11 +1,11 @@
 ---
-title: Project post 3 @ My Firm
+title: Process Automation and Data Analysis Application
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## [Impact sentence placeholder](#)
+## Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. 
 
 <br>
 
