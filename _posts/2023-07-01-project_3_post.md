@@ -6,8 +6,6 @@ sidebar-hide: true
 ---
 Developed an automated report generation system to establish a consistent and efficient framework for generating analytical reports based on selected indicators and IDs.
 
-<br>
-
 <figure>
 	<img src="{{ 'assets/images/image-placeholder.jpg' | relative_url }}" alt="Project Image"  width="800" />
 </figure>

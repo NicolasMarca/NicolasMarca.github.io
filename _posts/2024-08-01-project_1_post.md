@@ -7,10 +7,9 @@ sidebar-hide: true
 ---
 Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
 
-<br>
 <section class="article-text">
   <figure>
-    <img src="{{ 'assets/images/image-placeholder.jpg' | relative_url }}" alt="Project Image" width="800" />
+    <img src="{{ 'assets/images/image-placeholder.jpg' | relative_url }}" alt="Project Image" width="100%" />
   </figure>
 
   <p>

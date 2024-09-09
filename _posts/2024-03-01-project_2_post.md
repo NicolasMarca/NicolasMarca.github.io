@@ -6,8 +6,6 @@ sidebar-hide: true
 ---
 Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. 
 
-<br>
-
 <figure>
 	<img src="{{ 'assets/images/image-placeholder.jpg' | relative_url }}" alt="Project Image"  width="800" />
 </figure>
