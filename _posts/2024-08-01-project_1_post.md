@@ -1,5 +1,5 @@
 ---
-title: Interactive Market Analysis Report @UN Migration
+title: Interactive Data Analysis Report @UN Migration
 subtitle: This is the subtitle
 layout: post
 category: project
@@ -29,20 +29,11 @@ Developed an interactive report to draw insights from various datasets and previ
   <br>
 
   <figure>
-    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="GIF Placeholder" width="800" />
-    <figcaption><b>Fig. GIF placeholder caption</b></figcaption>
+    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="GIF Placeholder" width="100%" />
+    <figcaption><b>Fig 3: Interactive Features Display</b></figcaption>
   </figure>
 
   <br>
 </section>
 
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/earth-europe.svg" width="50" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="50" height="50">
-</p>
-
-The link for project is [Website Placeholder](#) and the code is available on [GitHub](#).
+Note: As this is an internal project the source code cannot be shared publicly, however, I am very open to discussing about them.
