@@ -5,11 +5,7 @@ layout: post
 category: project
 sidebar-hide: true
 ---
-asdDeveloped an automated report generation system to establish a consistent and efficient framework for generating analytical reports based on selected indicators and IDs.
-
-##  Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
-
-###  lkjasdfkDeveloped an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
+Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
 
 <br>
 <section class="article-text">

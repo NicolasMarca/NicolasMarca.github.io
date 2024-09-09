@@ -4,8 +4,7 @@ layout: post
 category: project
 sidebar-hide: true
 ---
-
-## Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. 
+Developed an application to automate business processes, perform exploratory data analysis, and create a sales dashboard with forecasting capabilities. 
 
 <br>
 
