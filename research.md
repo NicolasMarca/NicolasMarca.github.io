@@ -62,7 +62,7 @@ The manual aims to help countries and their national statistical systems to impr
 
 ### **Las Características y el Desarrollo de la Economía Popular Un Modelo Formal con Evidencia Etnográfica**
 
-#### _Contributor_, 2018
+#### _Contributor_, March 2018
 
 <div style="line-height:50%;">
     <br>
