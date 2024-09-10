@@ -1,6 +1,5 @@
 ---
 title: Interactive Data Analysis Report @UN Migration
-subtitle: This is the subtitle
 layout: post
 category: project
 sidebar-hide: true
@@ -16,7 +15,7 @@ Developed an interactive report to draw insights from various datasets and previ
   </p>
   <figure>
     <img src="{{ 'assets/images/oremit_interactive_gif_1.gif' | relative_url }}" alt="OREMIT 1" width="100%" />
-    <figcaption><b>Fig. Report Intro</b></figcaption>    
+    <figcaption><b>Gif 1. Report Intro</b></figcaption>    
   </figure>
 
   <p>
@@ -69,9 +68,9 @@ Developed an interactive report to draw insights from various datasets and previ
 
   <figure>
     <img src="{{ 'assets/images/oremit_interactive_gif_2.gif' | relative_url }}" alt="OREMIT 2" width="100%" />
-    <figcaption><b>Fig. Features Display Snippet</b></figcaption>
+    <figcaption><b>Gif 2. Features Display Snippet</b></figcaption>
   </figure>
 
 </section>
-
-Note: As this is an internal project the source code cannot be shared publicly, however, I am very open to discussing about them.
+<br>
+Note: As this is an internal project the source code cannot be shared publicly, however, I am open to discussing about them.
