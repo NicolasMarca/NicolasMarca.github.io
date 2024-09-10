@@ -25,7 +25,7 @@ Developed an interactive report to draw insights from various datasets and previ
   <p>
     This interactive format offers several advantages compared to traditional reports: 
   </p>
-  <table style="width:100%; border-collapse: collapse;">
+  <table style="width:100%; border-collapse: collapse; font-size: 18px;">
     <tr>
       <th style="border-bottom: 2px solid #ccc; text-align: left; padding: 8px;">Feature</th>
       <th style="border-bottom: 2px solid #ccc; text-align: left; padding: 8px;">Traditional Report</th>
@@ -62,7 +62,7 @@ Developed an interactive report to draw insights from various datasets and previ
       <td style="padding: 8px;">Interactive and self-paced learning through visual and data interaction</td>
     </tr>
   </table>
-  
+
   <p>
     This interactive format provides a more layered view of the data, offering an engaging experience that enhances both comprehension and exploration. Below, you can find a short preview of how the report's interactive functionalities, making the information more intuitive and accessible for all stakeholders: 
   </p>
