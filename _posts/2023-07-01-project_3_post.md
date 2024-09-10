@@ -12,14 +12,14 @@ Developed an automated report generation system to establish a consistent and ef
   <p>The key feature of the system was its ability to automate the insertion of modular indicators into a pre-built Word document template, ensuring that relevant statistics and data visualizations are populated accurately:</p>
 
   <figure>
-    <img src="{{ 'assets/images/hmcs_1.png' | relative_url }}" alt="hmcs 1" width="70%" />
+    <img src="{{ 'assets/images/hmcs_1.png' | relative_url }}" alt="hmcs 1" width="50%" />
     <figcaption><b>Fig 1. Report Template v1</b></figcaption>    
   </figure>
 
   <p>After choosing from a list of indicators and selecting an ID in this case countries a report is generated:</p>
 
   <figure>
-    <img src="{{ 'assets/images/hmcs_2.png' | relative_url }}" alt="hmcs 2" width="70%" />
+    <img src="{{ 'assets/images/hmcs_2.png' | relative_url }}" alt="hmcs 2" width="50%" />
     <figcaption><b>Fig 2. Report Example India</b></figcaption>    
   </figure>
 
