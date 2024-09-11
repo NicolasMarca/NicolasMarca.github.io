@@ -880,7 +880,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 300px;
+		width: 240px;
 
 		.top {
 			@include vendor('flex-grow', '1');
@@ -1000,7 +1000,7 @@
 /* Footer *//* e27689; */
 
 	#footer {
-		margin-left: 300px;
+		margin-left: 240px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 1em 0 1em 0;
@@ -1030,7 +1030,7 @@
 /* Main */
 
 	#main {
-		margin-left: 300px;
+		margin-left: 240px;
 		> section {
 			text-align: center;
 		}
@@ -1140,17 +1140,19 @@
 			body, input, textarea, select {
 				font-size: 16pt;
 			}
-			
+			.container {
+				padding: 0 25em 0 25em;
+			}
 			#header {
-				width: 200px;
+				width: 240px;
 			}
 			
 			#footer {
-				margin-left: 200px;
+				margin-left: 240px;
 			}
 			
 			#main {
-				margin-left: 200px;
+				margin-left: 240px;
 				> section, article {
 					padding: 3em 0;
 				}
@@ -1196,6 +1198,16 @@
 			.container {
 				padding: 0 2em 0 2em;
 			}
+			#header {
+				width: 240px;
+			}
+			
+			#footer {
+				margin-left: 240px;
+			}
+			#main {
+				margin-left: 240px;
+				}			
 
 		/* List */
 
@@ -1280,7 +1292,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 14pt;
 			}
 
 			header {
@@ -1455,7 +1467,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 12pt;
 			}
 
 			h2 {
