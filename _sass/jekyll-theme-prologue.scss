@@ -1140,7 +1140,11 @@
 			body, input, textarea, select {
 				font-size: 16pt;
 			}
-			
+			.container {
+				margin-left: 9%;
+				margin-right: 9%;
+			}
+
 			#header {
 				width: 220px;
 			}
