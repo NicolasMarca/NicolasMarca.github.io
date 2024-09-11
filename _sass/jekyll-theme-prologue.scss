@@ -880,7 +880,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 240px;
+		width: 260px;
 
 		.top {
 			@include vendor('flex-grow', '1');
@@ -1000,7 +1000,7 @@
 /* Footer *//* e27689; */
 
 	#footer {
-		margin-left: 240px;
+		margin-left: 260px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 1em 0 1em 0;
@@ -1030,7 +1030,7 @@
 /* Main */
 
 	#main {
-		margin-left: 240px;
+		margin-left: 260px;
 		> section {
 			text-align: center;
 		}
@@ -1141,7 +1141,7 @@
 				font-size: 16pt;
 			}
 			.container {
-				padding: 0 25em 0 25em;
+				margin: 0 2em 0 2em;
 			}
 			#header {
 				width: 240px;
@@ -1229,10 +1229,6 @@
 
 		/* Header */
 
-			#header {
-				width: 20%;
-			}
-
 			#logo {
 				.image {
 					position: relative;
@@ -1261,18 +1257,6 @@
 						}
 					}
 				}
-			}
-
-		/* Footer */
-
-			#footer {
-				margin-left: 20%;
-			}
-
-		/* Main */
-
-			#main {
-				margin-left: 20%;
 			}
 
 	}
