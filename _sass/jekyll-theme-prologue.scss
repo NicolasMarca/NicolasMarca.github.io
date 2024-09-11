@@ -243,8 +243,10 @@
 	
 	/* SubTitle Animation by https://github.com/pinkychow1010*/
 	.anim-content {
-		position: relative;
-	    margin-top: 20px; 
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-28%, -50%);
 		height: auto;
 		overflow:hidden;
 			
