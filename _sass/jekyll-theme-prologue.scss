@@ -244,7 +244,7 @@
 	/* SubTitle Animation by https://github.com/pinkychow1010*/
 	.anim-content {
 		position: absolute;
-		top: 40vh;
+		top: 35vh;
 		left: 38%;
 		transform: translate(-28%, -50%);
 		height: 10vh;
@@ -315,6 +315,21 @@
 		  }
 		}
 	  }
+
+
+	@media (max-width: 1620px) {
+		.anim-content {
+			font-size: 24px; 
+			line-height: 32px;
+		}
+	}
+	
+	@media (max-width: 1320px) {
+		.anim-content {
+			font-size: 22px; 
+			line-height: 30px;
+		}
+	}
 
 	@media (max-width: 960px) {
 		.anim-content {
