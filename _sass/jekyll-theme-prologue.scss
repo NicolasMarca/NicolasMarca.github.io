@@ -144,7 +144,7 @@
 		position: relative;
 		z-index: 1;
 		text-align: center;
-		margin: 0 1.518em;
+		margin: 0 1.318em;
 		top: 51%;
 		opacity: 0;
 	  
@@ -152,12 +152,12 @@
 			font-family: 'Pathway Gothic One',Helvetica Neue,Helvetica,Arial,sans-serif;
 			text-transform: uppercase;
 			color: #1779cf;
-			font-size: 1.1rem;
+			font-size: 1rem;
 			font-weight: normal;
 		}
 
 		p {
-			font-size: 1rem;
+			font-size: 0.9rem;
 		}
 	}
 
@@ -372,7 +372,7 @@
 	
 	.styled-text {
 		font-family: 'Source Sans Pro', sans-serif; 
-		font-size: 18px !important;
+		font-size: 17px !important;
 	  }
 	  .article-text {
 		width: 80%;
@@ -382,7 +382,7 @@
 	  .article-text p {
 		text-align: left; 
 		font-family: 'Source Sans Pro', sans-serif; 
-		font-size: 18px !important; 
+		font-size: 17px !important; 
 	  }
 	/* End Testing */
 
@@ -1367,7 +1367,7 @@
 						-moz-osx-font-smoothing: grayscale;
 						content: '\f0c9';
 						color: #fff;
-						font-size: 18px;
+						font-size: 17px;
 						line-height: 2.25em;
 						background: rgba(128, 136, 144, 0.8);
 						border-radius: 0.35em;
