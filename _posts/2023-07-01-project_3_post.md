@@ -29,4 +29,4 @@ Developed an automated report generation system to establish a consistent and ef
 
 </section>
 <br>
-Note: As this is an internal project the source code cannot be shared publicly, however, I am open to discussing about them.
+Note: As this is an internal project the source code cannot be shared publicly, however, I am open to discussing about it.

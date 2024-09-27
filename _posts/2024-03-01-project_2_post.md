@@ -22,4 +22,4 @@ Developed an application to automate business processes, perform exploratory dat
 
 </section>
 <br>
-Note: As this is an internal project the source code cannot be shared publicly, however, I am open to discussing about them.
+Note: As this is an internal project the source code cannot be shared publicly, however, I am open to discussing about it.
