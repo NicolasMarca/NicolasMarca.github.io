@@ -320,24 +320,28 @@
 	@media (max-width: 1620px) {
 		.anim-content {
 			font-size: 24px; 
+			line-height: 32px;
 		}
 	}
 	
 	@media (max-width: 1320px) {
 		.anim-content {
 			font-size: 16px; 
+			line-height: 27px;
 		}
 	}
 
 	@media (max-width: 960px) {
 		.anim-content {
 			font-size: 16px; /* Adjust for medium screens */
+			line-height: 27px;
 		}
 	}
 	
 	@media (max-width: 736px) {
 		.anim-content {
 			font-size: 10px; /* Adjust for small screens */
+			line-height: 20px;
 		}
 	}
 
