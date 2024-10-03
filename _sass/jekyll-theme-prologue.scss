@@ -261,8 +261,8 @@
 		  overflow: hidden;
 		  height: 1.3em;
 		  padding: 0 0.5em;
-		  display: flex;
-		  align-items: center;
+		  display: inline-block;
+		  vertical-align: middle; 
 	  
 		  &:before {
 			content: '[';
