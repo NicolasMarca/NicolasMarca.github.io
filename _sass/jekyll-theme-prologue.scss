@@ -260,7 +260,7 @@
 		  font-weight: 600;
 		  overflow: hidden;
 		  height: 40px;
-		  padding: 0 40px;
+		  padding: 0 1px;
 	  
 		  &:before {
 			content: '[';
@@ -297,7 +297,7 @@
 	  
 		  &__list {
 			margin-top: 0;
-			padding-left: 10px;
+			padding-left: 110px;
 			text-align: left;
 			list-style: none;
 			
@@ -309,7 +309,7 @@
 			animation-iteration-count: infinite;
 	  
 			&__item {
-			  line-height:30px;
+			  line-height:40px;
 			  margin:0;
 			}
 		  }
