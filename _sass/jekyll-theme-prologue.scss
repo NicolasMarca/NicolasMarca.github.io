@@ -260,7 +260,7 @@
 		  font-weight: 600;
 		  overflow: hidden;
 		  height: 40px;
-		  padding: 0 1px;
+		  padding: 0 0.5em;
 	  
 		  &:before {
 			content: '[';
@@ -297,7 +297,7 @@
 	  
 		  &__list {
 			margin-top: 0;
-			padding-left: 110px;
+			padding-left: 4em;
 			text-align: left;
 			list-style: none;
 			
@@ -340,8 +340,8 @@
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			font-size: 16px; /* Adjust for small screens */
-			line-height: 24px;
+			font-size: 12px; /* Adjust for small screens */
+			line-height: 20px;
 		}
 	}
 
