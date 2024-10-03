@@ -26,30 +26,3 @@ order: 1
     </div>
   </div>
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const items = document.querySelectorAll('.anim-content__container__list__item');
-    let currentIndex = 0;
-    const totalItems = items.length;
-    const displayDuration = 4000; // Duration to display each item in milliseconds
-  
-    function showItem(index) {
-      items.forEach((item, idx) => {
-        item.classList.toggle('active', idx === index);
-      });
-    }
-  
-    function cycleItems() {
-      showItem(currentIndex);
-      currentIndex = (currentIndex + 1) % totalItems;
-    }
-  
-    // Initial display
-    cycleItems();
-  
-    // Set interval for cycling items
-    setInterval(cycleItems, displayDuration);
-  });
-</script>
-  
