@@ -261,6 +261,8 @@
 		  overflow: hidden;
 		  height: 1.3em;
 		  padding: 0 0.5em;
+		  display: flex;
+		  align-items: center;
 	  
 		  &:before {
 			content: '[';
@@ -327,21 +329,21 @@
 	@media (max-width: 1320px) {
 		.anim-content {
 			font-size: 16px; 
-			line-height: 27px;
+			line-height: 1.333em;
 		}
 	}
 
 	@media (max-width: 960px) {
 		.anim-content {
 			font-size: 16px; /* Adjust for medium screens */
-			line-height: 27px;
+			line-height: 1.333em;
 		}
 	}
 	
 	@media (max-width: 736px) {
 		.anim-content {
 			font-size: 10px; /* Adjust for small screens */
-			line-height: 20px;
+			line-height: 1.333em;
 		}
 	}
 
