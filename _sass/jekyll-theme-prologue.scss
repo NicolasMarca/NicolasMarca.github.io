@@ -326,22 +326,22 @@
 	
 	@media (max-width: 1320px) {
 		.anim-content {
-			font-size: 22px; 
-			line-height: 30px;
+			font-size: 20px; 
+			line-height: 28px;
 		}
 	}
 
 	@media (max-width: 960px) {
 		.anim-content {
-			font-size: 20px; /* Adjust for medium screens */
-			line-height: 27px;
+			font-size: 16px; /* Adjust for medium screens */
+			line-height: 24px;
 		}
 	}
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			font-size: 16px; /* Adjust for small screens */
-			line-height: 24px;
+			font-size: 12px; /* Adjust for small screens */
+			line-height: 20px;
 		}
 	}
 
