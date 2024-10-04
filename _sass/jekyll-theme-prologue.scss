@@ -329,22 +329,25 @@
 	@media (max-width: 1320px) {
 		.anim-content {
 			font-size: 16px; 
-			line-height: 1.333em;
+			line-height: 1.35em;
 		}
 	}
 
 	@media (max-width: 960px) {
 		.anim-content {
 			font-size: 16px; /* Adjust for medium screens */
-			line-height: 1.333em;
+			line-height: 1.35em;
 		}
 	}
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			width: 70%;
+			
 			font-size: 10px; /* Adjust for small screens */
-			line-height: 1em;
+			line-height: 1.35em;
+
+			&__container {
+				width: 68%;
 		}
 	}
 
@@ -1538,14 +1541,14 @@
 			}
 			/* Timeline */
 			.tl-content {
-				margin: 0 1em;	
-									
+				margin: 0 0.9em;	
+
 				h1 {
-					font-size: 0.6rem;
+					font-size: 0.5rem;
 				}
 		
 				p {
-					font-size: 0.5rem;
+					font-size: 0.4rem;
 				}
 			}			
 
