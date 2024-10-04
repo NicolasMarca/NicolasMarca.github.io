@@ -280,7 +280,7 @@
 			top: 0;
 			
 			color: #16a085;
-			font-size: 1.2em;
+			font-size: 1.3em;
 			line-height: inherit;
 			
 			-webkit-animation-name: opacity;
@@ -342,9 +342,9 @@
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			width: 100%;
+			width: 65%;
 			font-size: 10px; /* Adjust for small screens */
-			line-height: 1.333em;
+			line-height: 1.25em;
 		}
 	}
 
