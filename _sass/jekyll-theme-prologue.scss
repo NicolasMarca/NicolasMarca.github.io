@@ -281,7 +281,7 @@
 			top: 0;
 			
 			color: #16a085;
-			font-size: 1.38em;
+			font-size: 1.35em;
 			line-height: inherit;
 			
 			-webkit-animation-name: opacity;
@@ -784,9 +784,9 @@
 
 		tbody {
 			tr {
-				&:nth-child(2n+2) {
+				/*&:nth-child(2n+2) {
 					background: #f4f4f4;
-				}
+				}*/
 			}
 		}
 
@@ -1554,8 +1554,12 @@
 				p {
 					font-size: 1.228rem;
 				}
-			}		
-
+			}	
+			
+			/* Profile pic */
+			.profile-pic {
+				max-width: 50%; /* Adjust the percentage as needed */
+			  }
 		/* List */
 
 			ul {
