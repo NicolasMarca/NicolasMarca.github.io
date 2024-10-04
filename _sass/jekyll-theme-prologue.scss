@@ -144,7 +144,7 @@
 		position: relative;
 		z-index: 1;
 		text-align: center;
-		margin: 0 1.318em;
+		margin: 0 1.218em;
 		top: 51%;
 		opacity: 0;
 	  
@@ -342,9 +342,9 @@
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			width: 50%;
+			width: 70%;
 			font-size: 10px; /* Adjust for small screens */
-			line-height: 1.25em;
+			line-height: 1em;
 		}
 	}
 
@@ -1538,7 +1538,8 @@
 			}
 			/* Timeline */
 			.tl-content {
-						
+				margin: 0 1em;	
+									
 				h1 {
 					font-size: 0.6rem;
 				}
