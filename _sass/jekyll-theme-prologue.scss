@@ -253,14 +253,14 @@
 
 		font-family: 'Lato', sans-serif;
 		font-size: 28px;
-		line-height: 40px;
+		line-height: 1.42em;
 		color: #ecf0f1;
 		
 		&__container {
 		  position: relative; 
 		  font-weight: 600;
 		  overflow: hidden;
-		  height: 1.4em;
+		  height: 1.42em;
 		  padding: 0 0.5em;
 		  display: inline-block;
 		  vertical-align: middle; 
@@ -323,21 +323,21 @@
 	@media (max-width: 1620px) {
 		.anim-content {
 			font-size: 24px; 
-			line-height: 32px;
+			line-height: 1.42em;
 		}
 	}
 	
 	@media (max-width: 1320px) {
 		.anim-content {
 			font-size: 16px; 
-			line-height: 1.35em;
+			line-height: 1.42em;
 		}
 	}
 
 	@media (max-width: 960px) {
 		.anim-content {
 			font-size: 16px; /* Adjust for medium screens */
-			line-height: 1.35em;
+			line-height: 1.42em;
 		}
 	}
 	
@@ -345,7 +345,7 @@
 		.anim-content {
 			/*width: 68%;*/ 
 		  	font-size: 9px; /* Adjust for small screens */
-		  	line-height: 1.35em;
+		  	line-height: 1.42em;
 		}
 	}
 	  
