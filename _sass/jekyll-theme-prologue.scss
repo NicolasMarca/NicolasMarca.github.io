@@ -342,14 +342,15 @@
 	
 	@media (max-width: 736px) {
 		.anim-content {
-			
-			font-size: 10px; /* Adjust for small screens */
-			line-height: 1.35em;
-
-			&__container {
-				width: 68%;
+		  font-size: 10px; /* Adjust for small screens */
+		  line-height: 1.35em;
+	  
+		  &__container {
+			width: 68%; 
+		  }
 		}
-	}
+	  }
+	  
 
 
 	@-webkit-keyframes opacity {
