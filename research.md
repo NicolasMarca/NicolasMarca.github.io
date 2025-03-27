@@ -67,7 +67,7 @@ This report highlights the pressing need for more detailed data on the transacti
     <br>
 </div>
 
- The  The Essentials of Migration Data (EMD) is based on a comprehensive review of available manuals, toolkits and guidelines from IOM, other international organizations, national statistical offices and academic institutions and on a number of consultations with data experts from IOM, other international organisations and national statistical offices. While the guide is primarily aimed at government stakeholders seeking to improve the dissemination of migration data and statistics at the national level, it will also be useful to practitioners from IOM and other international organizations, engaged in migration data capacity-building projects. 
+ The Essentials of Migration Data (EMD) is based on a comprehensive review of available manuals, toolkits and guidelines from IOM, other international organizations, national statistical offices and academic institutions and on a number of consultations with data experts from IOM, other international organisations and national statistical offices. While the guide is primarily aimed at government stakeholders seeking to improve the dissemination of migration data and statistics at the national level, it will also be useful to practitioners from IOM and other international organizations, engaged in migration data capacity-building projects. 
 
 <a href='https://www.migrationdataportal.org/handbook' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
