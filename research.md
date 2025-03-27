@@ -6,6 +6,23 @@ icon: fa-book
 order: 3
 ---
 ***
+### **Migration Trends In The Americas**
+
+#### _Contributor_, February 2025
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+The Migration Trends in the Americas report (Oct–Dec 2024) highlights the evolving dynamics of human mobility across the region. While the U.S. and Canada remain major destinations, migration within Latin America and the Caribbean (LAC) has grown rapidly—driven largely by Venezuelan displacement, now accounting for over 6.8 million people across the Americas. Intraregional (South-South) movements are approaching parity with migration flows to North America, especially when excluding Mexican nationals. Regular migration continues to be the dominant form, with countries like Colombia, Chile, and Canada issuing millions of residence permits to support migrant integration. Meanwhile, irregular migration through dangerous transit routes like the Darién Gap saw notable declines in late 2024, although risks and fatalities remain high.
+
+The report also highlights the vital role of remittances—reaching $136 billion in 2024—in supporting economies and households across the region, often surpassing foreign investment and aid. Taken together, the data and trends presented offer a broad snapshot of regional mobility, providing a foundation for reflection, cooperation, and response in a rapidly evolving migration context.
+
+<a href='https://lac.iom.int/sites/g/files/tmzbdl2601/files/documents/2025-03/q4-2024-migration-trends-in-the-americas_0.pdf' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
+
+<br>
+
+***
 ### **Data Insights Into Belgium’s Remittance Landscape: Trends and Drivers**
 
 #### _Lead Researcher_, June 2024
@@ -37,6 +54,22 @@ The market analysis part of the [O-REMIT project](https://belgium.iom.int/o-remi
 This report highlights the pressing need for more detailed data on the transaction costs associated with remittances from Belgium. During the development of the report, it was notable the significant data gap on transaction costs of remittances in Belgium, highlighting the critical role of having higher availability of transaction cost data. Although the data provides a snapshot limited to the specific period of data collection, it crucially points to Belgium's challenges in meeting the SDG 10.c. This goal strives to reduce transaction costs below 3% and to eliminate corridors with costs above 5% by 2030.
 
 <a href='https://belgium.iom.int/sites/g/files/tmzbdl1286/files/documents/2024-06/market-analysis-of-remittances-in-belgium.pdf' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
+
+<br>
+
+***
+
+### **Essentials of Migration Data**
+
+#### _Contributor_, 2024
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+ The  The Essentials of Migration Data (EMD) is based on a comprehensive review of available manuals, toolkits and guidelines from IOM, other international organizations, national statistical offices and academic institutions and on a number of consultations with data experts from IOM, other international organisations and national statistical offices. While the guide is primarily aimed at government stakeholders seeking to improve the dissemination of migration data and statistics at the national level, it will also be useful to practitioners from IOM and other international organizations, engaged in migration data capacity-building projects. 
+
+<a href='https://www.migrationdataportal.org/handbook' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
 <br>
 
