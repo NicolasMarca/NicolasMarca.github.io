@@ -4,7 +4,7 @@ layout: post
 category: project
 sidebar-hide: true
 ---
-Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website.
+Developed an interactive report to draw insights from various datasets and previous reports of remittances in Belgium, designed to be embedded and displayed on a website. Report available <a href="https://www.linkedin.com/posts/iom-belgium-and-luxembourg_internationaldayoffamilyremittances-diasporaengagement-ugcPost-7340307585482346496-taaU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYwpDsBa1XRgWV8AiflDc7dTSiyVUoiPhs"> here.</a> 
 
 <section class="article-text">
   <p>
